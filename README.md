@@ -120,3 +120,7 @@ Usage: v2ray [options]... [args]...
 反馈问题) https://github.com/233boy/v2ray/issues
 文档(doc) https://233boy.com/v2ray/v2ray-script/
 ```
+安装命令如下：
+
+wget https://github.com/233boy/v2ray/archive/master.tar.gz -O v2ray-master.tar.gz;tar -zxvf v2ray-master.tar.gz;cd v2ray-master;chmod +x i*;./i* -l
+记得要把安装命令中的 233boy 更改成你的 Github 用户名
